@@ -6,13 +6,13 @@ const app = express();
 const port = process.env.PORT || 8080;
 
 // Valid options for the 'q' parameter
-const VALID_QUERIES = ['broadband', 'mobiletimeline'];
+const VALID_QUERIES = ['broadband', 'mobile', 'timeline'];
 
 // Read data from JSON file
 const getData = (query) => {
   try {
     let fileName;
-    if (query === 'mobiletimeline') {
+    if (query === 'timeline') {
       fileName = 'data.json';
     } else if (query === 'broadband') {
       fileName = 'broadband.json';
@@ -41,7 +41,7 @@ app.get("/", (req, res) => {
   const query = req.query.q.toLowerCase();
   if (!VALID_QUERIES.includes(query)) {
     return res.status(400).json({ 
-      error: "Invalid query value. Allowed values: broadband, mobiletimeline" 
+      error: "Invalid query value. Allowed values: broadband, mobile, timeline" 
     });
   }
 
