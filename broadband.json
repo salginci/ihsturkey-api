@@ -5,7 +5,7 @@
         "year": 2000,
         "event": "ADSL Broadband Internet Introduced",
         "description": "The year 2000 marked a turning point in Turkish internet access with the introduction of Asymmetric Digital Subscriber Line (ADSL) broadband services. ADSL’s always-on connectivity fundamentally shifted user behavior away from dial-up modems, where tying up a phone line and enduring slow speeds were the norm. With ADSL, webpages loaded significantly faster, files could be downloaded with greater efficiency, and new multimedia experiences—such as streaming music and video—became increasingly viable. Eager to capitalize on this advance, ISPs bundled ADSL plans with customer-friendly offers, fueling mass adoption across metropolitan areas. At the same time, this shift in technology catalyzed the creation of online portals, e-commerce ventures, and web-based businesses that leveraged higher bandwidth to deliver new, richer services. Universities, corporations, and small enterprises likewise benefited from more robust email communications, access to global resources, and the ability to host online applications. ADSL’s emergence was thus a critical milestone, illustrating Turkey’s growing capacity to align with international technological standards while setting the stage for ongoing enhancements to national connectivity.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ADSL_Modem.jpg/1280px-ADSL_Modem.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvGsg0b9jxRYfjnQxqTYo_svDA0DTmuS4uNg&s",
         "source": "https://www.btk.gov.tr",
         "references": [
           "https://www.btk.gov.tr (Information and Communication Technologies Authority archive)",
@@ -17,7 +17,7 @@
         "year": 2005,
         "event": "Fiber Optic Infrastructure Projects Launched",
         "description": "In 2005, Turkey initiated large-scale fiber optic infrastructure projects to meet the rising demand for high-speed internet and to future-proof the nation’s core network. Traditional copper-based connections were increasingly insufficient for emerging data-intensive services, leading both public institutions and private telecom operators to invest heavily in deploying fiber optic cables across urban regions. This infrastructure upgrade was pivotal for sustaining the growth of digital media, online gaming, and corporate data exchange, as fiber lines offered low latency and much greater bandwidth compared to legacy technologies. Over time, the expanding fiber network facilitated faster broadband packages and stimulated competition among ISPs, who sought to differentiate themselves by promising higher upload and download speeds. In parallel, the government recognized fiber optics as a key enabler of innovation, supporting smart city initiatives, telemedicine projects, and e-learning portals designed to broaden internet access. Overall, the launch of fiber optic networks in 2005 represented a critical leap toward next-generation connectivity and underscored Turkey’s ambition to remain a regional leader in telecommunications.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Fibreoptic.jpg/1280px-Fibreoptic.jpg",
+        "image": "https://www.ekolnet.com.tr/uploads/2023/06/fiberoptik-altyapi_2611687485496.jpg",
         "source": "https://www.turktelekom.com.tr",
         "references": [
           "https://www.turktelekom.com.tr (Fiber investment announcements)",
@@ -29,7 +29,7 @@
         "year": 2006,
         "event": "Restructuring of Telecom Sector & Birth of ICTA",
         "description": "In 2006, Turkey witnessed significant regulatory transformation in its rapidly evolving telecommunications industry, culminating in the reorganization that established the Information and Communication Technologies Authority (ICTA). This newly formed body assumed responsibility for overseeing policy, licensing, consumer protection, and the enforcement of fair competition within the sector. Prior to ICTA’s inception, the telecommunication market faced fragmented regulation, with multiple agencies often duplicating tasks or lacking the necessary mandate to address emerging challenges. Consolidating these functions into a single authority streamlined procedures for granting new spectrum licenses, arbitrating disputes among service providers, and ensuring compliance with international best practices. The establishment of ICTA also demonstrated the government’s commitment to fostering both domestic and foreign investment by creating a transparent legal framework. Through regulations that encouraged private sector initiatives, improved consumer rights, and standardized internet governance, ICTA played a pivotal role in shaping Turkey’s subsequent advancements in broadband, mobile technology, and digital innovation, providing an adaptable framework for a future that would soon witness 3G, 4G, and beyond.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Logo_of_Information_and_Communication_Technologies_Authority.svg/480px-Logo_of_Information_and_Communication_Technologies_Authority.svg.png",
+        "image": "https://telecom.samm.com/Data/Blog/20.webp",
         "source": "https://www.btk.gov.tr",
         "references": [
           "https://www.btk.gov.tr (Official ICTA website, known as BTK in Turkish)",
@@ -42,7 +42,7 @@
         "year": 2010,
         "event": "Expansion of Public WiFi Hotspots",
         "description": "By 2010, public WiFi hotspots were expanding rapidly in Turkey, transforming urban cafes, libraries, transportation hubs, and community centers into accessible internet zones. This initiative was often a collaborative effort between local governments, private telecom operators, and educational institutions, each aiming to enhance digital connectivity for residents and visitors alike. With easy access to online resources, students found it simpler to collaborate on group assignments and research projects outside the classroom, while small-scale entrepreneurs embraced the flexibility of remote work. Tourists also benefited from convenient connectivity, fueling the growth of travel-related apps and online services. Over time, public WiFi coverage became a measure of modern city infrastructure and social inclusivity. Municipalities recognized that widespread wireless internet contributed to economic productivity, cultural engagement, and civic participation, prompting many regions to extend WiFi coverage to parks and more remote neighborhoods. In this way, the proliferation of public WiFi by 2010 symbolized Turkey’s commitment to bridging the digital divide and empowering citizens in an increasingly data-driven society.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Wifi.svg/800px-Wifi.svg.png",
+        "image": "https://www.cozumpark.com/wp-content/uploads/2021/03/hotspot1.png",
         "source": "https://www.ibb.istanbul",
         "references": [
           "https://www.ibb.istanbul (Istanbul Municipality announcements on public WiFi)",
