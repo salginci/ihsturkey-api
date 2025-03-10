@@ -1,7 +1,7 @@
 const express = require("express");
 const fs = require('fs');
 const path = require('path');
-
+const cors = require('cors');
 const app = express();
 const port = process.env.PORT || 8080;
 
@@ -27,6 +27,19 @@ const getData = (query) => {
     return null;
   }
 };
+app.use((req, res, next) => {
+  res.header('Access-Control-Allow-Origin', '*');
+  res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS');
+  res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept, Authorization');
+
+  if (req.method === 'OPTIONS') {
+    return res.sendStatus(204);
+  }
+
+  next();
+});
+
+app.use(cors({ origin: '*' })); //
 
 // Define endpoint with query parameter validation
 app.get("/", (req, res) => {
